@@ -1,0 +1,2 @@
+INSERT INTO bodegas (nombre_bodega,ubicacion_bodega) VALUES('Bodega Central','Col Escalon San Salvador, El Salvador');
+INSERT INTO bodegas (nombre_bodega,ubicacion_bodega) VALUES('Bodega Occidental','Santa Ana, El Salvador');
